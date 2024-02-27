@@ -13,7 +13,7 @@
             "architecture": "samd",
             "version": "1.0.0",
             "category": "Contributed",
-            "url": "https://github.com/Neki-Dzemaili/leaf_sensor/blob/main/leaf_sensor_1.0.0.zip",
+            "url": "https://raw.githubusercontent.com/Neki-Dzemaili/leaf_sensor/main/leaf_sensor_1.0.0.zip",
             "archiveFileName": "leaf_sensor_1.0.0.zip",
             "boards": [
               {
