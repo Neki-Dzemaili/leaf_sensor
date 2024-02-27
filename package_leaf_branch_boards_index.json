@@ -15,8 +15,6 @@
             "category": "Contributed",
             "url": "https://github.com/Neki-Dzemaili/leaf_sensor/blob/main/leaf_sensor_1.0.0.zip",
             "archiveFileName": "leaf_sensor_1.0.0.zip",
-            "checksum": "SHA-256:b7842e1d195cbdabeb26cd83916a77b50b603c68ee56681749fcc86a99785bd0",
-            "size": "4981324",
             "boards": [
               {
                 "name": "L.E.A.F Sensor module"
